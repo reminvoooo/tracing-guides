@@ -1,4 +1,4 @@
-# トレースガイド（山口版）
+# トレースガイド(山口版)
 
 Live at http://reminvoooo.github.io/tracing-guides/
 
